@@ -5,7 +5,7 @@
 # fallback
 
 USER_ID=${LOCAL_USER_ID:-0}
-USERNAME=${LOCAL_USERNAME:-user}
+USERNAME=${LOCAL_USERNAME:-frontend}
 
 case ${USER_ID} in
    "0")
