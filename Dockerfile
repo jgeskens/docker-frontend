@@ -1,4 +1,4 @@
-FROM ruby:2.3.1-alpine
+FROM ruby:2.4.0-alpine
 
 RUN set -x \
     && apk add --no-cache make nodejs bash nano ruby ruby-dev gcc g++ python su-exec curl \
