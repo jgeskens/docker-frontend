@@ -68,7 +68,7 @@ target/
 */.sass-cache
 
 # Dist
-src/frontend/static/dist/
+src/frontend/static/frontend/dist/
 
 # Node
 */node_modules
